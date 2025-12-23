@@ -25,9 +25,12 @@ Use as reference, not a one-click install.
 
 ## 📸 Preview
 
-![Preview](showcase/rice_showcase)
-![Preview2](showcase/rice_showcase2)
-
+<p align="center">
+  <img src="./showcase/rice_showcase" alt="Screenshot 1" width="75%" />
+</p>
+<p align="center">
+  <img src="./showcase/rice_showcase2" alt="Screenshot 2" width="75%" />
+</p>
 ---
 
 ## 🛠️ Setup
