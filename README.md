@@ -41,6 +41,26 @@ Clone and symlink manually:
 ```bash
 git clone https://github.com/juxxxl/arch-dotfiles.git
 ```
+To change the Picture in fastfetch:
+
+```bash
+cd ~/fastfetch
+
+```
+
+
+```bash
+# in -->
+config.jsonc
+
+# edit this line and replace {img path} with the path to the image you would like to have there
+
+"source": "{img path]", # line 4 
+
+# there are a couple of images i use myself in ~/fastfetch/pngs if you dont have any :3 
+
+
+```
 
 Pick what you need, don’t blindly copy everything.
 
